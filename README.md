@@ -1,8 +1,5 @@
 # 💫 About Me:
-Computer science student with a passion for games, sports and software. 
-
-<br><br>Currently learning everything about Java, C#, C/C++, Python, Django and more.<br> 
-
+Computer science student
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/martinschoenfeld/) 
